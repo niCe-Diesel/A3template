@@ -10,14 +10,14 @@ Scripts
 Module
   AGM
     Interaction
-      Playername view distance	-> 7
-      Show Nametags of AI		    -> yes
+      Playername view distance -> 7
+      Show Nametags of AI -> yes
     Medical System
-      Bleeding Speed Coef		    -> 2
-      Non-medic speed Coef	    -> 3
-      Recuire Diagnostic		    -> (muss geprüft werden)
+      Bleeding Speed Coef -> 2
+      Non-medic speed Coef -> 3
+      Recuire Diagnostic -> (muss geprüft werden)
     Respawn System
-      Save Gear 			          -> yes
+      Save Gear -> yes
   Zeus
     game master
   TFAR
