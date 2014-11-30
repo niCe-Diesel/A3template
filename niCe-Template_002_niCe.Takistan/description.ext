@@ -1,0 +1,24 @@
+class Header {
+  gameType = ZCoop;
+  minPlayers = 1;
+  maxPlayers = 100;
+};
+
+debriefing = 0;
+loadScreen = "logo.jpg";
+enableDebugConsole = 1;
+onLoadMissionTime = false;
+onLoadMission = "onLoadMission-Text";
+onLoadName = "onLoadName-Text";
+briefingName = "briefingName-Text";
+author = "niCe-Team";
+aiKills = 0;
+respawn = "BASE";
+respawndelay = 30;
+disabledAI = 1;
+respawnDialog = 0;
+enableItemsDropping = 0;
+disableChannels[]={2,4,5,6};
+forceRotorLibSimulation = 0;
+corpseManagerMode = 0;
+wreckManagerMode = 0;
