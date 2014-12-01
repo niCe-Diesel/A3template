@@ -1,7 +1,7 @@
 class Header {
   gameType = ZCoop;
   minPlayers = 1;
-  maxPlayers = 100;
+  maxPlayers = 150;
 };
 
 debriefing = 0;
