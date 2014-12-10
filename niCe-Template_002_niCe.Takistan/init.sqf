@@ -1,4 +1,4 @@
-enableSaving [false, false]; // Verhindert Autosave im Editor und Dedi bei Missionsabbruch
+enableSaving [false, false]; // Autosave im Editor und Dedi bei Missionsabbruch
 setViewDistance 2000; //Sichtweite in Meter
 setTerrainGrid 10; //Gras (50 = Kein Gras, 3.75 = Ultra High)
-enableSentences false; //AI-Chat und automatische Kontakt-Meldungen aktivieren
+enableSentences false; //AI-Chat und automatische Kontakt-Meldungen
