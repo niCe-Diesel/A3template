@@ -4,9 +4,6 @@ Templates:
   BLUFOR
   BLUFOR - mit Base
 
-Scripts
-  Arsenal via Zeus
-
 Module
   AGM
     Interaction
