@@ -2,7 +2,6 @@ Template A3 Missionen
 
 Templates:
   BLUFOR
-  BLUFOR - mit Base
 
 Module
   AGM
