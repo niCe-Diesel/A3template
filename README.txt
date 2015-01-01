@@ -16,7 +16,7 @@ Module
     Respawn System
       Save Gear -> yes
   Zeus
-    game master
+    game master (gebunden an Slot)
   TFAR
     Enforce Usage
       Give teamleader a long 	-> no
