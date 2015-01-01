@@ -22,11 +22,6 @@ Module
       Give teamleader a long 	-> no
       same sw freq.	for side	-> yes
 
-Base:
-  MOB Rasman:
-  FOB 1:
-  FOB 2:
-
 Slots: (nur Blufor)
   Command - Command
     HQ
